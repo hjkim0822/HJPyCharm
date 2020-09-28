@@ -4,10 +4,10 @@
 
 print("hello world second time")
 
-print("NIGGA")
+print("ok this was inappropriate")
 
-print("ma nigga")
+print("i learned now not to use bad words")
 
-print("yee ma nigga 4")
+print("its for all to see 4")
 
 print("hw 5")
